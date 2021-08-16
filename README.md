@@ -8,7 +8,7 @@
       .-.    '
       |.|
     /)|`|(\  
-   (.(|'|)`) [tan]$ sudo touch yourheart.txt
+   (.(|'|)`) [tan]$ doas touch yourheart.txt
 ~~~~`\`'./'~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 jgs   |.|           ~~
       |`|                            ~~
